@@ -2,9 +2,7 @@
 A 64 Bit kernel patcher based on tihmstar's liboffsetfinder64
 
 ## Compiling
-Compile using:
+Compile my fork of liboffsetfinder64 and compile using:
 ```
-./Automatic-build.sh
+./autogen.sh && make
 ```
-Note: you need brew
-
